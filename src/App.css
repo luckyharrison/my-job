@@ -5,13 +5,58 @@
   height: 342px;
   background: #ffffff;
   box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.16);
-
-}
-.lmt{
   display: flex;
   
+
+}
+.sme{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+.united{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+color: #000000;
+
 }
 
+.chevron{
+  height: 16px;
+  width: 20px;
+
+}
+ 
+.lmt{
+  display: flex;
+}
+.clock{
+  width: 40px;
+  height: 10.67px;
+}
+.project{
+  padding: 300px;
+  border: 0px;
+}
+
+
+
+.lmt2{
+  width: 700pxx;
+  height: 0px;
+  left: 265px;
+  top: 1656px;
+}
 .apply-btn{
 color: #f28040;
 left: 5008px;
@@ -20,7 +65,8 @@ height: 27px;
 top: 1652px;
 background: none;
 border: none;
-
-
-
+}
+.lmt1{
+  display: flex;
+  justify-content: space-between;
 }
